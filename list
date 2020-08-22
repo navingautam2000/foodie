@@ -1,0 +1,76 @@
+<html>
+<head>
+<title> menu </title>
+<style>
+    div{
+        width: 330px;
+        height: 220px;
+        padding: 20px;
+        border: 3px solid black;
+        float: left;
+    
+    }
+    h1{
+        text-align: center;
+    }
+    #new{
+        margin-bottom: 20px;
+        padding-top: 5px;
+        background:red;
+         border-radius: 5px;
+        margin: 30px;
+    text-align: center;
+    
+
+    }
+    #new1{
+        padding-top: 5px;
+        background: blue;
+        margin-top: 20px;
+        margin: 30px;
+        text-align: center;
+        border-radius: 5px;
+    }
+    #new2{
+        padding-top: 5px;
+        background:green;
+        margin-top: 20px;
+        margin: 30px;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+<h1><i>Our Menu</i></h1>
+<div id="new">
+    <p><i>
+        Chicken tikka masala is a delicious grilled chicken dish with a thick,
+         creamy gravy that is unforgettable after the first bite. A tomato-yogurt
+          sauce is spiced with chili, garlic, ginger, and garam masala, the ubiquitous
+           Indian spice blend. The chicken is marinated overnight, grilled, and then gently 
+           cooked in a slightly smoky gravy. You will want to serve this dish over basmati 
+           rice with warm naan bread for soaking up the sauce.
+    </i> </p>
+</div>
+    <div id="new1"><p><i>
+        The most popular paneer recipe at Indian restaurants is,
+         by far, palak paneer. It is a mildly flavored dish that is super healthy,
+          as it is nothing more than spinach and cottage cheese (the paneer), along with
+           the typical Indian spices.Thanks to the large portions of spinach and fenugreek 
+        leaves included in the recipe, this dish takes on a deep green hue. 
+        The cubed paneer are pan-fried first, contributing a nice texture to the dish. 
+        Palak paneer gets even better when served with your favorite flatbread.
+        </i></p>
+</div>
+<div id="new2"><p><i> 
+    Malai kofta (vegetable "meatballs" in a thick sauce) is the vegetarian alternative 
+    to meatballs. The koftas are made with a mix of potatoes, carrots, beans, peas,
+     and sweet corn, which are cooked and mashed before mixing with spices and paneer, 
+     that essential blocked "cheese" that is similar to tofu in texture and a great addition 
+     to any vegetarian meal. It's rather easy to find if you don't want to make it, especially
+      if you shop at a natural foods market. Malai kofta goes very well with naan or jeera rice.
+    </i>
+</p>
+</div>
+</body>
+<html>
